@@ -7,3 +7,9 @@ This project is to apply **semantic segementation** on **plant images**. Origina
 <p align="center">
   <img src=".\images\data.png" width=600 />
 </p>
+
+
+After training 30 epoches, the trained model is tested with new plant images.
+<p align="center">
+  <img src=".\images\out.png" width=600 />
+</p>
