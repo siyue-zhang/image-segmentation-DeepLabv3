@@ -10,6 +10,8 @@ Mandatory python packages:
 - PIL
 - matplotlib
 
+Save your image to replace the file `./images/test/original.jpg` with the same name. Then run the predictor, predicted mask and masked image will be updated for your custom image in the test image folder. Now, go try your photo!
+
 <p align="center">
   <img src=".\images\data.png" width=600 />
 </p>
