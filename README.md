@@ -11,5 +11,5 @@ This project is to apply **semantic segementation** on **plant images**. Origina
 
 After training 30 epoches, the trained model is tested with new plant images.
 <p align="center">
-  <img src=".\images\out.png" width=600 />
+  <img src=".\images\out.jpg" width=600 />
 </p>
